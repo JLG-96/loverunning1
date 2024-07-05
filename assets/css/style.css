@@ -24,7 +24,7 @@ h3 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #252525
+    color: #252525;
 }
 
 .hidden-heading {
@@ -211,7 +211,7 @@ main {
     background-image: url("../images/signup-image.webp");
     background-size: cover;
     background-position: 75%;
-    padding: 20px, 10%, 0, 10%;
+    padding: 20px 10% 0 10%;
     flex-grow: 1;
 }
 
